@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Code {
+public class Patterns {
     static void pattern1(int n) {
         System.out.println("Pattern 1");
         int i, j;
